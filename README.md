@@ -71,6 +71,9 @@ Type your questions in the chat box. The chatbot will answer using only your PDF
 
 `Out of context. No relevant information found in the uploaded PDFs.`
 
+## Demo
+
+<img width="1505" alt="Screenshot 2025-06-11 at 00 25 57" src="https://github.com/user-attachments/assets/95d6c55b-9926-4dce-859c-2888439cc35e" />
 
 
 
